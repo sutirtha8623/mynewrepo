@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int fact(int a)
+int func(int a)
 {
   if(a==1)
   {
